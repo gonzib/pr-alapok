@@ -1,6 +1,6 @@
-#feladat_014
-#while ciklus I.
-#while magyarul azt jelente: amíg
+# feladat_014
+# while ciklus I.
+# while magyarul azt jelente: amíg
 
 szam = 1
 while szam <= 10:
