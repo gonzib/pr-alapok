@@ -1,4 +1,4 @@
-#feladat_def
+# feladat_def
 """
 Kérjök be a vezeték és keresztnevünket.
 Irassuk ki föggvény segítségével nevünket.
