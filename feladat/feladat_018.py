@@ -1,4 +1,4 @@
-# feladat_017
+# feladat_018
 # Adatbekérés while-ciklussal (adatkérés megszakítása ENTER-rel)
 
 szo = None
