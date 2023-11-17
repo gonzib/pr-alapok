@@ -1,4 +1,4 @@
-# feladat_014
+# feladat_xxx
 # be: pozitív egész
 # ki: a szám páros vagy páratlan
 # def használata
